@@ -96,8 +96,7 @@ h5 {
   }
 }
 @media (max-width: 600px) {
-  /* Set the display value to none to hide the navbar */
-  .navbar {
-    display: none;
+  .hero {
+    margin-top: 50px;
   }
 }
