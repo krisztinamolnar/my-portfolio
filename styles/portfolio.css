@@ -85,6 +85,10 @@ h5 {
   font-size: 30px;
   padding: 5px;
 }
+.contact-content {
+  text-align: center;
+  padding: 80px 80px 40px 80px;
+}
 
 @media (max-width: 1000px) {
   .photo {
