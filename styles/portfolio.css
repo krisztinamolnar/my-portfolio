@@ -70,7 +70,7 @@ h5 {
   color: var(--branding-color);
 }
 .photo {
-  max-width: 350px;
+  max-width: 400px;
   height: auto;
   float: right;
   border-radius: 10px;
@@ -78,7 +78,7 @@ h5 {
   border-right: 2px dotted var(--branding-color);
 }
 .content-container {
-  padding: 80px 80px;
+  padding: 80px 80px 40px 80px;
 }
 .fa-brands {
   color: var(--branding-color);
