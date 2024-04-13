@@ -69,3 +69,25 @@ h5 {
 .github {
   color: var(--branding-color);
 }
+.photo {
+  max-width: 350px;
+  height: auto;
+  float: right;
+  border-radius: 10px;
+  border-bottom: 2px dotted var(--branding-color);
+  border-right: 2px dotted var(--branding-color);
+}
+.content-container {
+  padding: 80px 80px;
+}
+.fa-brands {
+  color: var(--branding-color);
+  font-size: 30px;
+  padding: 5px;
+}
+
+@media (max-width: 1000px) {
+  .photo {
+    display: none;
+  }
+}
